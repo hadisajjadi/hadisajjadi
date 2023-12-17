@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hadisajjadi
-- 👀 I’m interested in Game Development, Web Development and some hobby projects
-- 💞️ I’m looking to collaborate on any good project
+- 👀 I’m interested in Game Development and Web Development on my free time
 
 
 <!---
